@@ -12,7 +12,6 @@
 - `Sales-Performance-PowerBI.pbix` → Power BI dashboard  
 - `BMW_Cars_Sales.xlsx` → Cars dataset  
 - `BMW_Bikes_Sales.xlsx` → Bikes dataset   
-- `Screenshots/` → Dashboard images (Page 1: Bikes, Page 2: Cars, Page 3: Combined)  
 
 ## 📌 Insights
 - Cars had higher revenue, while bikes performed better in profit margins.  
